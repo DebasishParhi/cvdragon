@@ -73,7 +73,6 @@ h4{
 .right{
     height: 1040px;
     width: 60%;
-    /* border: 1px solid black; */
     margin-left: 5%;
 }
 h2{
@@ -87,7 +86,6 @@ h2{
 .h4{
     font-weight: bold;
     font-size: 20px;
-    /* margin:  12px; */
 }
 .reebok>li{
     margin-left: 5%;

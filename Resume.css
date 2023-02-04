@@ -1,0 +1,116 @@
+.container{
+    height: 1040px;
+    width: 50%;
+    margin: auto;
+    margin-top: 2%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    padding:30px 30px;
+}
+.left{
+    height: 1040px;
+    width: 35%;
+    background-color: rgb(244, 242, 242);
+}
+.main{
+   height: 1040px;
+   width: 100%;
+   display: flex;
+}
+
+img{
+    height:180px;
+    width: 70%;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 5%; 
+    margin-left: 12%;
+}
+.name{
+    text-align: center;
+    font-weight: lighte;
+    font-size: 14px;
+}
+p{
+    font-weight: bold;
+}
+
+.address {
+    display: flex;
+}
+.address2{
+    margin-left: 9%;
+}
+.icondiv{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+#emailicon{
+    margin-top: 19%;
+    padding-top: 65%;
+}
+.github{
+    font-size: 14px;
+    color: black;
+}
+#linkedin{
+    color: black;
+    font-size: 12px;
+}
+.linkedicon{
+    font-size: 20px;
+}
+h4{
+    margin-left: 5%;
+}
+.skill >li{
+    margin-left: 5%;
+}
+
+
+/* right div style start here */
+
+
+.right{
+    height: 1040px;
+    width: 60%;
+    /* border: 1px solid black; */
+    margin-left: 5%;
+}
+h2{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 2%;
+}
+.bibasket>li{
+    margin-left: 5%;
+}
+.h4{
+    font-weight: bold;
+    font-size: 20px;
+    /* margin:  12px; */
+}
+.reebok>li{
+    margin-left: 5%;
+}
+.NORDSTROM>li{
+    margin-left: 5%;    
+}
+h3{
+    margin-left: 5%;
+    margin-bottom: -15px;
+}
+.bibasket{
+    margin-bottom: -15px;
+}
+.reebok{
+    margin-bottom: -15px;
+}
+.purchasepara{
+    font-weight: inherit;
+    font-size:18px ;
+    margin: -20px 4%;
+    color: rgba(117, 117, 115, 0.785);
+    font-weight: bold;
+    
+
+}
